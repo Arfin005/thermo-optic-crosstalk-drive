@@ -1,0 +1,22 @@
+{
+ "6": {
+  "max_phase_err_mrad_25mW": 45.03437678425865,
+  "max_err_rel_to_self_pct": 1.4056915191535484
+ },
+ "8": {
+  "max_phase_err_mrad_25mW": 20.447052301898353,
+  "max_err_rel_to_self_pct": 0.63822906110503
+ },
+ "10": {
+  "max_phase_err_mrad_25mW": 14.504443709848143,
+  "max_err_rel_to_self_pct": 0.4527379963677053
+ },
+ "12": {
+  "max_phase_err_mrad_25mW": 8.366932742047593,
+  "max_err_rel_to_self_pct": 0.26116329872106747
+ },
+ "16": {
+  "max_phase_err_mrad_25mW": 5.746791371393394,
+  "max_err_rel_to_self_pct": 0.17937887609307718
+ }
+}
